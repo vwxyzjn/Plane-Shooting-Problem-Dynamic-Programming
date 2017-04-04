@@ -1,5 +1,6 @@
 # The Plane Shooting Problem (Dynamic Programming)
 Costa Huang
+
 This is a problem in my *Information Structure* class in Fuman University taught by Dr. Chris Healy
 
 ## Introduction
